@@ -13,3 +13,7 @@
 3.Repetitions:
   [Problem](https://cses.fi/problemset/task/1069) |
   [Solution](https://github.com/rodrigo1835/CSES-PROBLEMS/blob/main/Introductory%20Problems/Repetitions.py)
+ 
+4.Increasing Array:
+  [Problem](https://cses.fi/problemset/task/1094) |
+  [Solution](https://github.com/rodrigo1835/CSES-PROBLEMS/blob/main/Introductory%20Problems/IncreasingArray.cpp)
